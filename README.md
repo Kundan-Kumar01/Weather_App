@@ -1,8 +1,7 @@
 # Weather_App
-uses in project <br>
+ In this project 
+ we are using the javascript for the functionality,
+ CSS used for the UI design and 
+ HTML used  for structure  of the web page 
 
-1 HTML <br>
-2 CSS <br>
-3 JAVASCRIPT. <br>
-work is going on..<br>
- It will  be showing live weather forecast.
+ 
